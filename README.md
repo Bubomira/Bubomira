@@ -3,7 +3,6 @@
 ## I'm a passionate C# and Js Developer
 
 - I am currently majoring in **Computer Science** and **Mathematics** at **American University in Bulgaria (AUBG)**
-- Rigth now, I am an **intern** at **Weband**
 - I graduated from the **Software University (SoftUni)** as:
      - JS Web Developer
      - C# Web Developer
