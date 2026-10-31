@@ -7,7 +7,7 @@
      - JS Web Developer
      - C# Web Developer
      - C# Full-Stack Developer
-- I am a part of the **Development Department** in **the HUB Aubg**
+- I am currently HEAD of the **Development Department** in **the HUB Aubg**
   
 ***
 
